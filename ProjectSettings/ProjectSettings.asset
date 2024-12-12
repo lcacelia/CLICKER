@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: c3090a817d24bfb4887a3fb281296797
+  productGUID: 5128499bef83995429987203a72faa37
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: test
+  productName: IDLE_LE_CORVEC_AUDIC_CELIA
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -630,14 +630,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: test
+  metroPackageName: IDLE_LE_CORVEC_AUDIC_CELIA
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: test
+  metroApplicationDescription: IDLE_LE_CORVEC_AUDIC_CELIA
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -706,10 +706,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3bf18f51-a86b-43e1-9f41-d54a3dec236f
+  cloudProjectId: a71bb5a0-af36-491f-acf5-f52309ffc4a9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: test 2024-11-18_11-10-44
+  projectName: IDLE_LE_CORVEC_AUDIC_CELIA
   organizationId: lecorvecaudiccelia-gmail-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
